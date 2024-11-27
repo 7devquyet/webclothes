@@ -21,8 +21,6 @@ RedStore aims to deliver an engaging and smooth online shopping platform for spo
 - **HTML5**: Structure of the website.
 - **CSS3**: Styling and layout.
 - **JavaScript**: Menu toggle and interactive features.
-- **Google Fonts**: Custom fonts for enhanced readability.
-- **Font Awesome**: Icon library for ratings and visual elements.
 
 ## Screenshots
 ### Home Page
