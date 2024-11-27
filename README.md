@@ -53,7 +53,7 @@ To view or modify the project, follow these steps:
 
 ## Screenshots
 ### Home Page
-![Home Page]([images/screenshot-home.png](https://i.ibb.co/D18KxF7/Screenshot-2024-11-27-232909.png))
+![Home Page](https://i.ibb.co/D18KxF7/Screenshot-2024-11-27-232909.png)
 
 ### Product Page
 ![Product Page](images/screenshot-product.png)
