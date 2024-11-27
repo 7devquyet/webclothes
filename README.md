@@ -5,6 +5,15 @@
 
 RedStore is a responsive ecommerce website designed for selling sportswear and accessories. The project is built using HTML, CSS, and JavaScript, offering a visually appealing and user-friendly shopping experience.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
+- [Contributors](#contributors)
+- [License](#license)
+
 ## Project Overview
 RedStore aims to deliver an engaging and smooth online shopping platform for sports enthusiasts. The website showcases various products, including T-shirts, accessories, and smart gadgets. It also features a dynamic navigation menu, a product gallery, testimonials, and brand partnerships.
 
@@ -21,6 +30,26 @@ RedStore aims to deliver an engaging and smooth online shopping platform for spo
 - **HTML5**: Structure of the website.
 - **CSS3**: Styling and layout.
 - **JavaScript**: Menu toggle and interactive features.
+- **Google Fonts**: Custom fonts for enhanced readability.
+- **Font Awesome**: Icon library for ratings and visual elements.
+
+## Getting Started
+To view or modify the project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/redstore-ecommerce.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd redstore-ecommerce
+   ```
+
+3. Open `index.html` in your preferred web browser:
+   ```bash
+   open index.html
+   ```
 
 ## Screenshots
 ### Home Page
@@ -37,8 +66,3 @@ RedStore aims to deliver an engaging and smooth online shopping platform for spo
 
 ### Cart
 ![Cart](https://i.ibb.co/YW8rVLY/Screenshot-2024-11-27-233342.png)
-
-## Contributors
-- **Vũ Đức Quyết** - Technical Lead, Accessories Manager
-- **Vũ Minh Đức** - Co-Founder, Chief Designer
-- **Phan Hữu Nguyên** - Main Investor
