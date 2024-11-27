@@ -61,6 +61,12 @@ To view or modify the project, follow these steps:
 ### Contact Page
 ![Contact Page](https://i.ibb.co/M6yCMjX/Screenshot-2024-11-27-233219.png)
 
+### Login/Signup Page
+![Login/Signup Page](https://i.ibb.co/yyRDHGQ/Screenshot-2024-11-27-233326.png)
+
+### Cart
+![Cart](https://i.ibb.co/YW8rVLY/Screenshot-2024-11-27-233342.png)
+
 ## Contributors
 - **Vũ Đức Quyết** - Technical Lead, Accessories Manager
 - **Vũ Minh Đức** - Co-Founder, Chief Designer
