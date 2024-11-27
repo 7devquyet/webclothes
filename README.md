@@ -56,7 +56,10 @@ To view or modify the project, follow these steps:
 ![Home Page](https://i.ibb.co/D18KxF7/Screenshot-2024-11-27-232909.png)
 
 ### Product Page
-![Product Page](images/screenshot-product.png)
+![Product Page](https://i.ibb.co/gmhgGrK/Screenshot-2024-11-27-233108.png)
+
+### Contact Page
+![Contact Page](https://i.ibb.co/M6yCMjX/Screenshot-2024-11-27-233219.png)
 
 ## Contributors
 - **Vũ Đức Quyết** - Technical Lead, Accessories Manager
